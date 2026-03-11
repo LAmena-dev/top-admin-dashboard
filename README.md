@@ -1,5 +1,5 @@
-# TOP-admin-dashboard
-A [mockup admin dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) using HTML and CSS.
+# Admin Dashboard
+A [mockup admin dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) using HTML and CSS. It also makes use of custom fonts and Icons in SVG format.
 
 ## Technology used
 * HTML
